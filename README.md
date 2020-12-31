@@ -2,4 +2,4 @@
 
 https://github.com/jgendreau77/2020.git
 
-2020.mysitedevelopment.com
+https://2020.mysitedevelopment.com
