@@ -26,7 +26,7 @@ body::after {
   margin: 0 auto;
   /* perspective gives a 3d space within the element to work with*/
   /* perspective has effect of pushing the content "down" */
-  perspective: 450px;
+  perspective: 600px;
 }
 .scroll-text {
   color: #ffc909;
@@ -35,7 +35,7 @@ body::after {
   font-weight: bold;
   text-align: justify;
   position: relative;
-  animation: scroll 80s linear forwards;
+  animation: scroll 120s linear forwards;
 }
 h1,h2 {
   text-align: center;
@@ -45,3 +45,6 @@ h1,h2 {
 	from { top: 0; transform: translateZ(0) rotateX(20deg); }
 	to { top: -7500px; transform: translateZ(-2500px) rotateX(21deg); }
 }
+
+@media only screen and (min-width: 768px)  { body{ font-size: 3vw; } }
+
