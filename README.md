@@ -12,3 +12,7 @@ step-1
 - Added css code for scroll text
 - Added ccc folder and put style.cs file inside
 - Changed animation from 70s to 120s
+
+step-2
+- Added text to 3 paragraphs
+- Changed perspective in style.css from 450px to 600px
