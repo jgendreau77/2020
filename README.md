@@ -18,3 +18,9 @@ step-2
 - Changed animation from 120s to 60s
 - Changed style.css to styles.css
 - Removed media query
+
+step-3
+- Changed animation to 130s
+- Changed 3D perspective to 540px
+- Changed background fade out from 40% to 20%
+- Added 3 more paragraphs
