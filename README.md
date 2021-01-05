@@ -15,4 +15,6 @@ step-1
 
 step-2
 - Added text to 3 paragraphs
-- Changed perspective in style.css from 450px to 600px
+- Changed animation from 120s to 60s
+- Changed style.css to styles.css
+- Removed media query
